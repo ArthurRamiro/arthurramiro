@@ -1,8 +1,6 @@
 # Olá, Mundo! Eu sou Arthur Ramiro, seja muito bem-vindo(a).
 
 - 👨‍💻 Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
-- 🌱 Atualmente estou aprofundando meus conhecimentos em [Adicione aqui as tecnologias que você está estudando, ex: React, Node.js, Python].
-- 📫 Você pode me encontrar no LinkedIn!
 
 ---
 
