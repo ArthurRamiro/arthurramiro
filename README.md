@@ -23,7 +23,7 @@
 
 ### 📫 Fale Comigo
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/arthur-ramiro-4011322a1/">
   <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn">
 </a>
