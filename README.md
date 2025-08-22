@@ -1,4 +1,4 @@
-# Olá! Eu sou Arthur Ramiro
+# Olá! Eu sou Arthur Ramiro!
 
 - 👨‍💻 Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 
@@ -16,3 +16,11 @@
 ### 📫 Fale Comigo
 
 - **LinkedIn:** [Arthur Ramiro](https://www.linkedin.com/in/arthur-ramiro-4011322a1/)
+
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurramiro/arthurramiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurramiro/arthurramiro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthurramiro/arthurramiro/output/github-contribution-grid-snake.svg">
+</picture>
