@@ -1,4 +1,4 @@
-# Olá, Mundo! Eu sou Arthur Ramiro, seja muito bem-vindo(a).
+# Olá! Eu sou Arthur Ramiro
 
 - 👨‍💻 Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 
