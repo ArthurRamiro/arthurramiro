@@ -5,7 +5,7 @@
 </h1>
 
 <p align="left">
-  👨‍💻 Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
+  -👨‍💻 Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 </p>
 
 ---
