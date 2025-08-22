@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=monospace&size=28&color=FF00F6&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Arthur+Ramiro!" alt="Olá! Eu sou o Arthur Ramiro!"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=monospace&size=28&color=00FF00&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Arthur+Ramiro!" alt="Olá! Eu sou o Arthur Ramiro!"/>
   </a>
 </h1>
 
-<p align="center">
+<p align="left">
   👨‍💻 Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 </p>
 
@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/arthurramiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurramiro&show_icons=true&theme=transparent&bg_color=0D1117&title_color=FF00F6&text_color=FF00F6&icon_color=FF00F6&border_color=FF00F6"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramiro&layout=compact&langs_count=7&theme=transparent&bg_color=0D1117&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=FF00F6"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurramiro&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=FF00F6&border_color=FF00F6"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramiro&layout=compact&langs_count=7&theme=transparent&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=FF00F6&border_color=FF00F6"/>
   </a>
 </div>
 
