@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="center">
+<p align="left">
   👨‍💻 Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 </p>
 
@@ -12,12 +12,12 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-
-<a href="https://github.com/arthurramiro">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurramiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramiro&layout=compact&langs_count=7&theme=dark"/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/arthurramiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurramiro&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&title_color=FFD700&text_color=FFF&icon_color=FFD700&border_color=FFD700"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramiro&layout=compact&langs_count=7&theme=transparent&bg_color=0D1117&title_color=FFD700&text_color=FFF&icon_color=FFD700&border_color=FFD700"/>
+  </a>
+</div>
 
 ---
 
