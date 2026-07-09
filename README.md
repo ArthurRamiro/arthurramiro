@@ -10,17 +10,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/arthurramiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurramiro&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=FF00F6&border_color=FF00F6"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramiro&layout=compact&langs_count=7&theme=transparent&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=FF00F6&border_color=FF00F6"/>
-  </a>
-</div>
-
----
-
 ### 📫 Fale Comigo
 
 <p align="left">
