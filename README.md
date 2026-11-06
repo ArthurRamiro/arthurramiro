@@ -1,4 +1,8 @@
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=monospace&size=28&color=00FF00&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Arthur+Ramiro!" alt=""/>
+  </a>
+</h1>
 
 <p align="left">
 👨🏾‍💻 Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
